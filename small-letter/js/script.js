@@ -1,11 +1,11 @@
 function smallletter(str) {
-    if (str === str.toLowerCase) {
+    if (str === str.toLowerCase()) {
         return true
     } else {
         return false
     }
 }
-document.write(smallletter('SHirin') + '<br>')
+document.write(smallletter('shirin') + '<br>')
 
 
 document.write('************************<br>')
