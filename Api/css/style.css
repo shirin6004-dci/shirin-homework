@@ -1,0 +1,18 @@
+h1 , h4 , h3{
+    text-align: center;
+    color: rgb(65, 55, 55);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.id , .jock{
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 20px;
+    color: gray;
+}
+
+#somebtn{
+    
+    border-radius: 5px;
+    margin-top: 10px;
+}
