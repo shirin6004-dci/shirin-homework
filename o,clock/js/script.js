@@ -28,7 +28,7 @@ let bla = setInterval(() => {
          
     }
 
-},10 )
+},1000 )
 
 
 function name(hrs,mins,scs) {
